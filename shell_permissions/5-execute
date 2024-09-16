@@ -1,2 +1,2 @@
 #!/bin/bash
-chomod 700
+chmod 700
